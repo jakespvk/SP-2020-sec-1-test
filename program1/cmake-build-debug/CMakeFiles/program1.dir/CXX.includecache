@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Card.cpp
+Card.h
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Card.h
+
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Card.h
+
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Deck.cpp
+iostream
+-
+Deck.h
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Deck.h
+
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Deck.h
+Card.h
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Card.h
+
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/main.cpp
+iostream
+-
+Deck.h
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Deck.h
+Card.h
+/Users/jspievak/Documents/CSULB/CECS/CECS282/Projects/program1/Card.h
+
